@@ -570,256 +570,306 @@ Insgesamt ist zu erwarten, dass die Anzahl der tatsächlich umgesetzten Konzepte
 ## Literaturverzeichnis
 
 <table>
-  <tr>
-   <td>[BSI18] 
-   </td>
-   <td>Bundesamt für Sicherheit in der Informationstechnik, 2018. Blockchain sicher gestalten – Eckpunkte des BSI, Bonn.
-   </td>
-  </tr>
-  <tr>
-   <td>[BSI19]
-   </td>
-   <td>Bundesamt für Sicherheit in der Informationstechnik, 2019. Blockchain sicher gestalten – Konzepte, Anforderungen, Bewertungen. Bonn.
-   </td>
-  </tr>
-  <tr>
-   <td>[SI17]
-   </td>
-   <td>Sixt, E.: Bitcoins und andere dezentrale Transaktionssysteme. Blockchains als Basis einer Kryptoökonomie, 2017. Berlin: Springer-Verlag.
-   </td>
-  </tr>
-  <tr>
-   <td>[DB17]
-   </td>
-   <td>Deutsche Bundesbank, 2017. Distributed-Ledger-Technologien im Zahlungsverkehr und in der Wertpapierabwicklung: Potenziale und Risiken, Frankfurt am Main.
-   </td>
-  </tr>
-  <tr>
-   <td>[ISO19]
-   </td>
-   <td>ISO/TR 23455:2019, 2019. Online verfügbar unter: https://www.iso.org/standard/75624.html?browse=tc (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[DIN19]
-   </td>
-   <td>DIN SPEC 3103:2019-06, 2019. Online verfügbar unter: https://www.beuth.de/de/technische-regel/din-spec-3103/306199037 (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[NIST00]
-   </td>
-   <td>NIST, Blockchain Projects. Online verfügbar unter: https://www.nist.gov/topics/blockchain (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[DR19]
-   </td>
-   <td>Drösser, C., 2019. Verbraucht der Zahlungsverkehr mit Bitcoin so viel Energie wie ein ganzes Land?. Online verfügbar unter: https://www.zeit.de/2019/32/bitcoin-kryptowaehrung-energieverbrauch-kilowatt-stimmts (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[MA19]
-   </td>
-   <td>Mantinger, L. Warum gibt es Bitcoin Cash?. Online verfügbar unter: https://cryptoticker.io/de/warum-gibt-es-bitcoin-cash/ (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[AN18]
-   </td>
-   <td>Anwar, H. Consensus Algorithms: The root of the Blockchain Technology. Online verfügbar unter: https://101blockchains.com/consensus-algorithms-blockchain/#prettyPhoto/2/ (Letzter Zugriff: 21.12.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[WI17]
-   </td>
-   <td>Wiefling, S. et. al., 2017. Anwendung der Blockchain außerhalb von Geldwährungen. Erschienen in: Datenschutz und Datensicherheit - DuD, August 2017, Volume 41, Issue 8.Wiesbaden: Springer Fachmedien.
-   </td>
-  </tr>
-  <tr>
-   <td>[NO17]
-   </td>
-   <td>Nofer, M. et. al., 2017. Blockchain. Erschienen in: Business & Information Systems Engineering, Juni 2017, Volume 59, Issue 3. Wiesbaden: Springer Fachmedien.
-   </td>
-  </tr>
-  <tr>
-   <td>[BE18]
-   </td>
-   <td>Belyaev, A., et. al., 2018. Die Blockchain als eine Technologie für die Verwirklichung von Visionen der I4.0. Online verfügbar unter: <a href="https://www.researchgate.net/publication/326625600_Die_Blockchain_als_eine_Technologie_fur_die_Verwirklichung_von_Visionen_der_I40">https://www.researchgate.net/publication/326625600_Die_Blockchain_als_eine_Technologie_fur_die_Verwirklichung_von_Visionen_der_I40</a> (Letzter Zugriff: 19.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[SP18]
-   </td>
-   <td>Specht, P., 2018. Die 50 wichtigsten Themen der Digitalisierung : künstliche Intelligenz, Blockchain, Bitcoin, Virtual Reality und vieles mehr verständlich erklärt. München: Redline Verlag.
-   </td>
-  </tr>
-  <tr>
-   <td>[PL16]
-   </td>
-   <td>Ploom, T., 2016. Blockchains - wichtige Fragen aus IT-Sicht. Berlin: De Gruyter Oldenbourg.
-   </td>
-  </tr>
-  <tr>
-   <td>[DI17]
-   </td>
-   <td>Dixon, P., 2017. Blockchain: mehr als Bitcoin. Wiesbaden: Springer Fachmedien.
-   </td>
-  </tr>
-  <tr>
-   <td>[MO20]
-   </td>
-   <td>Morrien, R., 2020. Bitcoin: Die Entstehung. Online verfügbar unter: https://www.gevestor.de/details/bitcoin-die-entstehung-819953.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[BU20]
-   </td>
-   <td>Bundesamt für Sicherheit in der Informationstechnik, 2020. BSI für Bürger - Blockchain und Kryptowährung. Online verfügbar unter: https://www.bsi-fuer-buerger.de/BSIFB/DE/DigitaleGesellschaft/OnlineBanking/Blockchain_und_Kryptowaehrung/blockchain_kryptowaehrung_node.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[HA17]
-   </td>
-   <td>Hauptfleisch, K., 2017. So reich wären Sie heute, wenn Sie 2009 in Bitcoin investiert hätten. Online verfügbar unter: https://www.cancom.info/2017/08/so-reich-waeren-sie-heute-wenn-sie-2009-in-bitcoin-investiert-haetten/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[BO20]
-   </td>
-   <td>Bocksch, R., 2020. Bitcoin ist unangefochtener Krypto-Primus. Online verfügbar unter: https://de.statista.com/infografik/1939/marktkapitalisierung-von-kryptowaehrungen/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[SC19]
-   </td>
-   <td>Schiller, K., 2019. Was ist Tether (USDT)?. Online verfügbar unter: https://blockchainwelt.de/tether/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[KR19]
-   </td>
-   <td>Krug, K., 2019. Was die Blockchain für Kapitalmärkte bedeutet. Online verfügbar unter: https://www.wiwo.de/finanzen/geldanlage/verkehrte-finanzwelt-was-die-blockchain-fuer-kapitalmaerkte-bedeutet/25265202.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[BU20]
-   </td>
-   <td>Bundesministerium für Justiz und Verbraucherschutz, 2020. eWpG: Gesetz zur Einführung von elektronischen Wertpapier beschlossen. Online verfügbar unter: https://www.der-betrieb.de/meldungen/ewpg-gesetz-zur-einfuehrung-von-elektronischen-wertpapieren-beschlossen/ (Letzter Zugriff: 03.01.2020).
-   </td>
-  </tr>
-  <tr>
-   <td>[HO20]
-   </td>
-   <td>Holtermann, F., 2020. „Revolution am Kapitalmarkt“: Bundesregierung legt Gesetzentwurf für virtuelle Wertpapiere vor. Online verfügbar unter: https://app.handelsblatt.com/finanzen/boerse-maerkte/blockchain-anleihe-revolution-am-kapitalmarkt-bundesregierung-legt-gesetzentwurf-fuer-virtuelle-wertpapiere-vor/26084362.html?ticket=ST-22977890-RS3sBIHxla9cOCZqP3xT-ap1 (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[PO18]
-   </td>
-   <td>Polavis, 2018. Das Potential der Blockchain im Gesundheitswesen – der Hype und die Realität. Online verfügbar unter: https://www.polavis.de/blog/blockchain-im-gesundheitswesen-der-hype-und-die-realitaet/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[BU19]
-   </td>
-   <td>Bundesministerium für Gesundheit, 2019. Zukunftswerkstatt: Blockchain im Gesundheitswesen. Online verfügbar unter: https://www.bundesgesundheitsministerium.de/blockchain.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[SC192]
-   </td>
-   <td>Schierhorn, 2019. Ethereum: Was Sie über die Kryptowährung wissen sollten. Online verfügbar unter: https://www.hanseaticbank.de/klarmacher/wissen/kryptowaehrung-ethereum-was-ist-das-brauche-ich-das (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[AC19]
-   </td>
-   <td>Aconso, 2019. Blockchain und HR: Recruiting, Arbeitsverträge und mehr. Online verfügbar unter: https://www.aconso.com/blockchain-und-hr-recruiting-arbeitsvertraege-und-mehr/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[TE19]
-   </td>
-   <td>Temperli, D., 2019. Wieso ist Blockchain für Versicherungen so interessant?. Online verfügbar unter: https://www.axa.ch/de/unternehmenskunden/blog/gruendung-und-innovation/blockchain-versicherungen-schweiz.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[EY18]
-   </td>
-   <td>EY Global, 2018. Wie die Blockchain-Technologie die Versicherungsbranche revolutioniert. Online verfügbar unter: https://www.ey.com/de_de/insurance/five-tech-trends-that-will-define-the-future-of-insurance (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[BI20]
-   </td>
-   <td>BITO, 2020. Blockchain in der Logistik. Online verfügbar unter: https://www.bito.com/de-de/fachwissen/artikel/blockchain-in-der-logistik/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[PWC17]
-   </td>
-   <td>PWC Deutschland, 2017. Warum Blockchain auch die Logistik revolutionieren wird. Online verfügbar unter: https://www.pwc.de/de/transport-und-logistik/warum-blockchain-auch-die-logistik-revolutionieren-wird.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[FRA20]
-   </td>
-   <td>Fraunhofer-Institut für Materialfluss und Logistik IML, 2020. Logistik 4.0. Online verfügbar unter: https://www.iml.fraunhofer.de/de/abteilungen/b1/intralogistik-und--it-planung/dienstleistungen0/Logistik_4_0.html (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[GE19]
-   </td>
-   <td>Gensrich, E., 2019. Wie die Blockchain-Technologie autonomes Fahren ermöglicht. Online verfügbar unter: https://partner.mvv.de/blog/wie-die-blockchain-technologie-autonomes-fahren-ermoeglicht (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[RE19]
-   </td>
-   <td>Reichhardt, M., 2019. Blockchain für Mobilität – Idee oder ideal?. Online verfügbar unter: https://www.automobil-industrie.vogel.de/blockchain-fuer-mobilitaet-idee-oder-ideal-a-851649/ (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[TR20]
-   </td>
-   <td>Parsons Trommler, K., 2020. Blockchain-Technologie: Hype, Enttäuschung und die Rückkehr zur Realität. Online verfügbar unter: https://www.bayern-innovativ.de/seite/blockchain-fuer-mobilitaet (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[FU20]
-   </td>
-   <td>FutureManagementGroup AG, 2020. Leben und Arbeiten: Führt die Blockchain-Technologie zu einer Revolution?. Online verfügbar unter: https://www.futuremanagementgroup.com/de/werden-blockchains-co-unser-leben-und-arbeiten-revolutionieren/# (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
-  <tr>
-   <td>[LL18]
-   </td>
-   <td>Laube, L., 2018. Blockchain einfach erklärt — Teil 3 Aufbau eines Blocks. Online verfügbar unter: https://medium.com/@luca.laube/blockchain-einfach-erkl%C3%A4rt-teil-3-aufbau-eines-blocks-dbb45319da7e (Letzter Zugriff: 03.01.2021).
-   </td>
-  </tr>
+
   <tr>
    <td>[AA14]
    </td>
    <td>Antonopoulos, A., 2014. Mastering Bitcoin: Unlocking Digital Cryptocurrencies. Sebastopol: O'Reilly Media.
    </td>
   </tr>
+
+  <tr>
+   <td>[AC19]
+   </td>
+   <td>Aconso, 2019. Blockchain und HR: Recruiting, Arbeitsverträge und mehr. Online verfügbar unter: https://www.aconso.com/blockchain-und-hr-recruiting-arbeitsvertraege-und-mehr/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[AN18]
+   </td>
+   <td>Anwar, H. Consensus Algorithms: The root of the Blockchain Technology. Online verfügbar unter: https://101blockchains.com/consensus-algorithms-blockchain/#prettyPhoto/2/ (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+ <tr>
+   <td>[BA20]
+   </td>
+   <td>Bitpanda Academy, 2020. Wie funktionieren Hard Forks und Soft Forks?. Online verfügbar unter: https://www.bitpanda.com/academy/de/lektionen/wie-funktionieren-hard-forks-und-soft-forks/ (Letzter Zugriff: 15.12.2020).
+   </td>
+  </tr>
+
+<tr>
+   <td>[BD11]
+   </td>
+   <td>Boneh, D., 2011. Digital Signature Standard. Encyclopedia of Cryptography and Security, pp. 347-347.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[BE18]
+   </td>
+   <td>Belyaev, A., et. al., 2018. Die Blockchain als eine Technologie für die Verwirklichung von Visionen der I4.0. Online verfügbar unter: <a href="https://www.researchgate.net/publication/326625600_Die_Blockchain_als_eine_Technologie_fur_die_Verwirklichung_von_Visionen_der_I40">https://www.researchgate.net/publication/326625600_Die_Blockchain_als_eine_Technologie_fur_die_Verwirklichung_von_Visionen_der_I40</a> (Letzter Zugriff: 19.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[BI20]
+   </td>
+   <td>BITO, 2020. Blockchain in der Logistik. Online verfügbar unter: https://www.bito.com/de-de/fachwissen/artikel/blockchain-in-der-logistik/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
   <tr>
    <td>[BJ16]
    </td>
    <td>Bonneau, J. et al., 2016. Bitcoin and cryptocurrency technologies. Princeton: Princeton University Press.
    </td>
   </tr>
+
   <tr>
-   <td>[TH15]
+   <td>[BM20]
    </td>
-   <td>Theymos, 2015. Blockchain. https://en.bitcoin.it/wiki/Block_chain/ (Letzter Zugriff: 20.12.2020).
+   <td>Bitcoinmining, 2020. What is Bitcoin Mining?. Online verfügbar unter: https://www.bitcoinmining.com/ (Letzter Zugriff: 17.01.2021).
    </td>
   </tr>
-  <tr>
-   <td>[BA20]
+
+ <tr>
+   <td>[BO20]
    </td>
-   <td>Bitpanda Academy, 2020. Wie funktionieren Hard Forks und Soft Forks?. Online verfügbar unter: https://www.bitpanda.com/academy/de/lektionen/wie-funktionieren-hard-forks-und-soft-forks/ (Letzter Zugriff: 15.12.2020).
+   <td>Bocksch, R., 2020. Bitcoin ist unangefochtener Krypto-Primus. Online verfügbar unter: https://de.statista.com/infografik/1939/marktkapitalisierung-von-kryptowaehrungen/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+ <tr>
+   <td>[BSI18] 
+   </td>
+   <td>Bundesamt für Sicherheit in der Informationstechnik, 2018. Blockchain sicher gestalten – Eckpunkte des BSI, Bonn.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[BSI19]
+   </td>
+   <td>Bundesamt für Sicherheit in der Informationstechnik, 2019. Blockchain sicher gestalten – Konzepte, Anforderungen, Bewertungen. Bonn.
+   </td>
+  </tr>
+  
+   <tr>
+   <td>[BU20]
+   </td>
+   <td>Bundesministerium für Justiz und Verbraucherschutz, 2020. eWpG: Gesetz zur Einführung von elektronischen Wertpapier beschlossen. Online verfügbar unter: https://www.der-betrieb.de/meldungen/ewpg-gesetz-zur-einfuehrung-von-elektronischen-wertpapieren-beschlossen/ (Letzter Zugriff: 03.01.2020).
+   </td>
+  </tr>
+  
+   <tr>
+   <td>[BU19]
+   </td>
+   <td>Bundesministerium für Gesundheit, 2019. Zukunftswerkstatt: Blockchain im Gesundheitswesen. Online verfügbar unter: https://www.bundesgesundheitsministerium.de/blockchain.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+   <tr>
+   <td>[BU20]
+   </td>
+   <td>Bundesamt für Sicherheit in der Informationstechnik, 2020. BSI für Bürger - Blockchain und Kryptowährung. Online verfügbar unter: https://www.bsi-fuer-buerger.de/BSIFB/DE/DigitaleGesellschaft/OnlineBanking/Blockchain_und_Kryptowaehrung/blockchain_kryptowaehrung_node.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[DB17]
+   </td>
+   <td>Deutsche Bundesbank, 2017. Distributed-Ledger-Technologien im Zahlungsverkehr und in der Wertpapierabwicklung: Potenziale und Risiken, Frankfurt am Main.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[DI17]
+   </td>
+   <td>Dixon, P., 2017. Blockchain: mehr als Bitcoin. Wiesbaden: Springer Fachmedien.
+   </td>
+  </tr>
+
+   <tr>
+   <td>[DIN19]
+   </td>
+   <td>DIN SPEC 3103:2019-06, 2019. Online verfügbar unter: https://www.beuth.de/de/technische-regel/din-spec-3103/306199037 (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+   <tr>
+   <td>[DR19]
+   </td>
+   <td>Drösser, C., 2019. Verbraucht der Zahlungsverkehr mit Bitcoin so viel Energie wie ein ganzes Land?. Online verfügbar unter: https://www.zeit.de/2019/32/bitcoin-kryptowaehrung-energieverbrauch-kilowatt-stimmts (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[EY18]
+   </td>
+   <td>EY Global, 2018. Wie die Blockchain-Technologie die Versicherungsbranche revolutioniert. Online verfügbar unter: https://www.ey.com/de_de/insurance/five-tech-trends-that-will-define-the-future-of-insurance (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+<tr>
+   <td>[FRA20]
+   </td>
+   <td>Fraunhofer-Institut für Materialfluss und Logistik IML, 2020. Logistik 4.0. Online verfügbar unter: https://www.iml.fraunhofer.de/de/abteilungen/b1/intralogistik-und--it-planung/dienstleistungen0/Logistik_4_0.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[FU20]
+   </td>
+   <td>FutureManagementGroup AG, 2020. Leben und Arbeiten: Führt die Blockchain-Technologie zu einer Revolution?. Online verfügbar unter: https://www.futuremanagementgroup.com/de/werden-blockchains-co-unser-leben-und-arbeiten-revolutionieren/# (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[GE19]
+   </td>
+   <td>Gensrich, E., 2019. Wie die Blockchain-Technologie autonomes Fahren ermöglicht. Online verfügbar unter: https://partner.mvv.de/blog/wie-die-blockchain-technologie-autonomes-fahren-ermoeglicht (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[HA17]
+   </td>
+   <td>Hauptfleisch, K., 2017. So reich wären Sie heute, wenn Sie 2009 in Bitcoin investiert hätten. Online verfügbar unter: https://www.cancom.info/2017/08/so-reich-waeren-sie-heute-wenn-sie-2009-in-bitcoin-investiert-haetten/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[HO20]
+   </td>
+   <td>Holtermann, F., 2020. „Revolution am Kapitalmarkt“: Bundesregierung legt Gesetzentwurf für virtuelle Wertpapiere vor. Online verfügbar unter: https://app.handelsblatt.com/finanzen/boerse-maerkte/blockchain-anleihe-revolution-am-kapitalmarkt-bundesregierung-legt-gesetzentwurf-fuer-virtuelle-wertpapiere-vor/26084362.html?ticket=ST-22977890-RS3sBIHxla9cOCZqP3xT-ap1 (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  </tr>
+    <tr>
+   <td>[ISO19]
+   </td>
+   <td>ISO/TR 23455:2019, 2019. Online verfügbar unter: https://www.iso.org/standard/75624.html?browse=tc (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[KR19]
+   </td>
+   <td>Krug, K., 2019. Was die Blockchain für Kapitalmärkte bedeutet. Online verfügbar unter: https://www.wiwo.de/finanzen/geldanlage/verkehrte-finanzwelt-was-die-blockchain-fuer-kapitalmaerkte-bedeutet/25265202.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[LL18]
+   </td>
+   <td>Laube, L., 2018. Blockchain einfach erklärt — Teil 3 Aufbau eines Blocks. Online verfügbar unter: https://medium.com/@luca.laube/blockchain-einfach-erkl%C3%A4rt-teil-3-aufbau-eines-blocks-dbb45319da7e (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+ <tr>
+   <td>[MA19]
+   </td>
+   <td>Mantinger, L. Warum gibt es Bitcoin Cash?. Online verfügbar unter: https://cryptoticker.io/de/warum-gibt-es-bitcoin-cash/ (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[MK16]
+   </td>
+   <td>Matusiewicz, K. et al., 2016. Analysis of simplified variants of SHA-256, Graz: Graz University of Technology.
+   </td>
+  </tr>
+  
+  <tr>
+   <td>[MO20]
+   </td>
+   <td>Morrien, R., 2020. Bitcoin: Die Entstehung. Online verfügbar unter: https://www.gevestor.de/details/bitcoin-die-entstehung-819953.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+<tr>
+   <td>[NIST00]
+   </td>
+   <td>NIST, Blockchain Projects. Online verfügbar unter: https://www.nist.gov/topics/blockchain (Letzter Zugriff: 21.12.2020).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[NO17]
+   </td>
+   <td>Nofer, M. et. al., 2017. Blockchain. Erschienen in: Business & Information Systems Engineering, Juni 2017, Volume 59, Issue 3. Wiesbaden: Springer Fachmedien.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[NS78]
+   </td>
+   <td>Needham, R. & Schroeder, M., 1978. Using encryption for authentication in large networks of computers. Communications of the ACM.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[PO18]
+   </td>
+   <td>Polavis, 2018. Das Potential der Blockchain im Gesundheitswesen – der Hype und die Realität. Online verfügbar unter: https://www.polavis.de/blog/blockchain-im-gesundheitswesen-der-hype-und-die-realitaet/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[PP09]
+   </td>
+   <td>Paar, C. & Pelzl, J., 2009. Understanding Cryptography - A Textbook for Students and Practitioners. Heidelberg: Springer.
+   </td>
+  </tr>
+
+  <tr>
+   <td>[PP15]
+   </td>
+   <td>Peters, G. W. & Panayi, E., 2015. Understanding Modern Banking Ledgers Through Blockchain Technologies: Future of Transaction Processing and Smart Contracts on the Internet of Money, London: SSRN.
+   </td>
+  </tr>
+
+ <tr>
+   <td>[PWC17]
+   </td>
+   <td>PWC Deutschland, 2017. Warum Blockchain auch die Logistik revolutionieren wird. Online verfügbar unter: https://www.pwc.de/de/transport-und-logistik/warum-blockchain-auch-die-logistik-revolutionieren-wird.html (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+  
+  <tr>
+   <td>[RE19]
+   </td>
+   <td>Reichhardt, M., 2019. Blockchain für Mobilität – Idee oder ideal?. Online verfügbar unter: https://www.automobil-industrie.vogel.de/blockchain-fuer-mobilitaet-idee-oder-ideal-a-851649/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[SC19]
+   </td>
+   <td>Schiller, K., 2019. Was ist Tether (USDT)?. Online verfügbar unter: https://blockchainwelt.de/tether/ (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+   <tr>
+   <td>[SC192]
+   </td>
+   <td>Schierhorn, 2019. Ethereum: Was Sie über die Kryptowährung wissen sollten. Online verfügbar unter: https://www.hanseaticbank.de/klarmacher/wissen/kryptowaehrung-ethereum-was-ist-das-brauche-ich-das (Letzter Zugriff: 03.01.2021).
+   </td>
+  </tr>
+
+  <tr>
+   <td>[SI17]
+   </td>
+   <td>Sixt, E.: Bitcoins und andere dezentrale Transaktionssysteme. Blockchains als Basis einer Kryptoökonomie, 2017. Berlin: Springer-Verlag.
+   </td>
+  </tr>
+
+   <tr>
+   <td>[SP18]
+   </td>
+   <td>Specht, P., 2018. Die 50 wichtigsten Themen der Digitalisierung : künstliche Intelligenz, Blockchain, Bitcoin, Virtual Reality und vieles mehr verständlich erklärt. München: Redline Verlag.
    </td>
   </tr>
   <tr>
@@ -828,46 +878,40 @@ Insgesamt ist zu erwarten, dass die Anzahl der tatsächlich umgesetzten Konzepte
    <td>Schlatt, V. et. al., 2016: Blockchain: Grundlagen, Anwendungen und Potenziale. Online verfügbar unter: https://www.fim-rc.de/Paperbibliothek/Veroeffentlicht/642/wi-642.pdf (Letzter Zugriff: 17.01.2021).
    </td>
   </tr>
-  <tr>
-   <td>[PP15]
-   </td>
-   <td>Peters, G. W. & Panayi, E., 2015. Understanding Modern Banking Ledgers Through Blockchain Technologies: Future of Transaction Processing and Smart Contracts on the Internet of Money, London: SSRN.
-   </td>
-  </tr>
+
   <tr>
    <td>[ST15]
    </td>
    <td>Swanson, T., 2015. Consensus-as-a-service: a brief report on the emergence of permissioned, distributed ledger systems, Sidney: R3cev. 
    </td>
   </tr>
+
   <tr>
-   <td>[BD11]
+   <td>[TE19]
    </td>
-   <td>Boneh, D., 2011. Digital Signature Standard. Encyclopedia of Cryptography and Security, pp. 347-347.
+   <td>Temperli, D., 2019. Wieso ist Blockchain für Versicherungen so interessant?. Online verfügbar unter: https://www.axa.ch/de/unternehmenskunden/blog/gruendung-und-innovation/blockchain-versicherungen-schweiz.html (Letzter Zugriff: 03.01.2021).
    </td>
   </tr>
+
   <tr>
-   <td>[PP09]
+   <td>[TH15]
    </td>
-   <td>Paar, C. & Pelzl, J., 2009. Understanding Cryptography - A Textbook for Students and Practitioners. Heidelberg: Springer.
+   <td>Theymos, 2015. Blockchain. https://en.bitcoin.it/wiki/Block_chain/ (Letzter Zugriff: 20.12.2020).
    </td>
   </tr>
-  <tr>
-   <td>[NS78]
+
+   <tr>
+   <td>[TR20]
    </td>
-   <td>Needham, R. & Schroeder, M., 1978. Using encryption for authentication in large networks of computers. Communications of the ACM.
-   </td>
-  </tr>
-  <tr>
-   <td>[MK16]
-   </td>
-   <td>Matusiewicz, K. et al., 2016. Analysis of simplified variants of SHA-256, Graz: Graz University of Technology.
+   <td>Parsons Trommler, K., 2020. Blockchain-Technologie: Hype, Enttäuschung und die Rückkehr zur Realität. Online verfügbar unter: https://www.bayern-innovativ.de/seite/blockchain-fuer-mobilitaet (Letzter Zugriff: 03.01.2021).
    </td>
   </tr>
+
   <tr>
-   <td>[BM20]
+   <td>[WI17]
    </td>
-   <td>Bitcoinmining, 2020. What is Bitcoin Mining?. Online verfügbar unter: https://www.bitcoinmining.com/ (Letzter Zugriff: 17.01.2021).
+   <td>Wiefling, S. et. al., 2017. Anwendung der Blockchain außerhalb von Geldwährungen. Erschienen in: Datenschutz und Datensicherheit - DuD, August 2017, Volume 41, Issue 8.Wiesbaden: Springer Fachmedien.
    </td>
   </tr>
+
 </table>
