@@ -216,7 +216,6 @@ Neben den verschiedenen Transaktionsverfahren kommen eine oder mehrere Hash-Poin
 #### 3.1.2 Hash Referenzen
 
 Hash Referenzen verweisen mit Hilfe von Hashwerten eine Transaktion einer Person zu. Dabei werden die jeweiligen Daten in eine Nummern- und Buchstabenkette transformiert. Jegliche Änderung der Datei führt zu einem neuen Hashwert. Dieser ist einmalig und kann nicht wieder in die eigentliche Nachricht umgewandelt werden (siehe
-
 [Hash-Funktionen](#35-hash-funktionen)) [LL18].
 
 #### 3.1.3 Block Header
