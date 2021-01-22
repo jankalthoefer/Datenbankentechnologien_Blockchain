@@ -792,9 +792,6 @@ Insgesamt ist zu erwarten, dass die Anzahl der tatsächlich umgesetzten Konzepte
    <td>FutureManagementGroup AG, 2020. Leben und Arbeiten: Führt die Blockchain-Technologie zu einer Revolution?. Online verfügbar unter: https://www.futuremanagementgroup.com/de/werden-blockchains-co-unser-leben-und-arbeiten-revolutionieren/# (Letzter Zugriff: 03.01.2021).
    </td>
   </tr>
-</table>
-
-<table>
   <tr>
    <td>[LL18]
    </td>
