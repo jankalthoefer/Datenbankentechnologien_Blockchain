@@ -283,7 +283,7 @@ Die Variablen 𝑥1 und 𝑥2 sind als unabhängige Werte zu betrachten. Diese b
 
 Der Wert 𝑟 ist eine willkürlich gewählte Zahl,die nur einmalig vergeben werden darf. Sie wird in der Kryptographie als Nonce bezeichnet [NS78]. Da in der Blockchain neben dem Hiding auch das SHA-256 Verfahren Anwendung findet, ist eine Ermittlung des Wertes 𝑥 der über die Nonce konkateniert wird nicht mehr möglich. Hier ist zwischen dem Hiding und dem Biding zu unterscheiden. Binding ist die Undurchführbarkeit zweier Paare (𝑥, 𝑟) und (𝑥<sup>′</sup>, 𝑟<sup>′</sup>) zu finden, so dass 𝑥 ≠ 𝑥′ aber dennoch 𝐻(𝑟‖𝑥) == 𝐻(𝑟′‖𝑥′) gilt. Die Eigenschaften des eben erwähnten Hiding und Binding sorgen für eine Verifikation der Transaktion. Die Variable 𝑥 wird durch die Nonce 𝑟 mit einer anderen Partei verifiziert. Dies geschieht mit Hilfe des Wertes aus der Hash-Funktion 𝐻 und wird mit 𝑟‖𝑥 ausgeführt. Die Kollisionsresistenz sorgt hierbei für eine einmalige Wertevergabe der Variablen 𝑥 und 𝑟 ,die wieder zum identischen Hash-Wert führen. Eine weitere Eigenschaft der Hash-Funktion ist die Puzzle Friendliness. Hierfür gilt:
 
-    𝐻(𝑟‖𝑥) = 𝑦; t&lt;2<sup>𝑛</sup>
+𝐻(𝑟‖𝑥) = 𝑦; t<2𝑛
 
 Die Nonce 𝑟 kann hierbei nicht für jedes n-bit das kleiner 2𝑛 ist gefunden werden. In anderen Worten: Die Puzzle Friendliness ist dann gegeben, wenn der einzige anwendbare Lösungsweg der ist, dass alle erdenklichen Möglichkeiten für die Nonce 𝑟 berechnet werden <sup> </sup>[BJ16]. Neben den oben aufgeführten Eigenschaften gibt es noch Weitere, diese sind jedoch für das Verständnis der Hash-Funktion innerhalb der Blockchain nicht relevant [MK16].
 
